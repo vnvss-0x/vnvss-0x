@@ -1,4 +1,6 @@
-[![MasterHead](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)]
+<p align="center">
+  <img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" alt="MasterHead" width="600">
+</p>
 <h1 align="center">Hi 👋, I'm ANASS MAKHLOUK</h1>
 <h3 align="center">A passionate Full-Stack developer from Morocco</h3>
 
