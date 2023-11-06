@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" alt="MasterHead" width="600">
+  <img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" alt="MasterHead" width="700">
 </p>
 <h1 align="center">Hi 👋, I'm ANASS MAKHLOUK</h1>
 <h3 align="center">A passionate Full-Stack developer from Morocco</h3>
-
+<img align="right" alt="Coding" width="400px" src="https://i.giphy.com/media/B4dt6rXq6nABilHTYM/200w.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnvss-0x&label=Profile%20views&color=0e75b6&style=flat" alt="vnvss-0x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vnvss-0x" alt="vnvss-0x" /></a> </p>
