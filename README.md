@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/anass makhlouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anass makhlouk" height="30" width="40" /></a>
-<a href="https://instagram.com/vnvss_0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vnvss_0x" height="30" width="40" /></a>
+<a href="https://fb.com/anass makhlouk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anass makhlouk" height="30" width="40" /></a>
+<a href="https://instagram.com/vnvss_0x" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vnvss_0x" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
