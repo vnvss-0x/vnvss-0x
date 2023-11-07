@@ -6,12 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnvss-0x&label=Profile%20views&color=0e75b6&style=flat" alt="vnvss-0x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vnvss-0x" alt="vnvss-0x" /></a> </p>
-
-<img align="right" alt="Coding" width="400px" src="https://i.giphy.com/media/B4dt6rXq6nABilHTYM/200w.gif">
+<div>
 - 💬 Ask me about **Python, JavaScript**
 
 - 📫 How to reach me **anassmakhlo@gmail.com**
-
+<img align="right" alt="Coding" width="300px" src="https://i.giphy.com/media/B4dt6rXq6nABilHTYM/200w.gif">
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/anass makhlouk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anass makhlouk" height="30" width="40" /></a>
