@@ -98,14 +98,9 @@
 
 ### 🔗 Social info
 
-<div id="badges">
-    <a href="#">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-<a mailto="anassmakhlo@gmail.com"><img src="https://www.cdnlogo.com/logos/g/24/gmail-icon.svg"></a>
-</div>
 
----
+  <a href="linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a style="padding-top:20px;" href="mailto:anassmakhlo@gmail.com"><img style="width: 60px; height: 60px;padding-top:20px;" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" alt="Email Icon"></a>
 
-### 👀 Visitor Info
-<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
+
+
