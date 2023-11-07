@@ -1,14 +1,12 @@
-[![An image of @getlost01's Holopin badges, which is a link to view their full Holopin profile]([https://media3.giphy.com/media/B4dt6rXq6nABilHTYM/200w.gif?cid=6c09b952p48j8j22qo5f3cg3vbwgsk3ec2p23yiu30ukazw4&ep=v1_gifs_search&rid=200w.gif&ct=g](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp))
+<center><img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" alt="Profile Banner" width="800"></center>
 
-<h2 align="center">Hi 👋, I'm Aagam Jain</h2>
+<h2 align="center">Hi 👋, I'm Anass Makhlouk</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+vnvss_0x,+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech CSE Final year student at UIET Kanpur
-
-- 🔭 I’m currently working on **Intelli Kanban** & focusing on **DSA**
+- 👨‍💻 I'm a Full-Stack Web Developer.
 
 - 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
 
@@ -17,11 +15,25 @@
 --- 
 
 ### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=getlost01&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/getlost01/github-stats">
-<img width="400" src="https://getlost01.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img width="400" src="https://getlost01.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+<!-- GitHub Readme Stats -->
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=vnvss-0x&count_private=true&show_icons=true&theme=react" />
+
+<!-- GitHub Contribution Streak -->
+<img width="425" src="https://streak-stats.demolab.com/?user=vnvss-0x&theme=react" />
+
+<!-- GitHub Activity Graph -->
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=vnvss-0x&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
+<!-- GitHub Overview -->
+<a href="https://github.com/vnvss-0x/github-stats">
+  <img width="400" src="https://vnvss-0x.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+</a>
+
+<!-- GitHub Languages -->
+<a href="https://github.com/vnvss-0x/github-stats">
+  <img width="400" src="https://vnvss-0x.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only">
