@@ -99,8 +99,17 @@
 ### 🔗 Social info
 
 
-  <a href="linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a style="padding-top:20px;" href="mailto:anassmakhlo@gmail.com"><img style="width: 60px; height: 60px;padding-top:20px;" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" alt="Email Icon"></a>
+  <div id="user-content-badges" dir="auto">
+    <a href="#" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&amp;tf=cm&amp;to=anassmakhlo@gmail.com" target="_Blank" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="#" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/a083da3e42e7d321d7be9f5e1c5a3e8a4350b79f4b12316e1f8c325750e09b40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d6464613730333f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" alt="Portfolio Badge" data-canonical-src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&amp;logo=About.me&amp;logoColor=white" style="max-width: 100%;">
+    </a>
 
+</div>
 
 
