@@ -1,4 +1,4 @@
-[![An image of @getlost01's Holopin badges, which is a link to view their full Holopin profile](https://media3.giphy.com/media/B4dt6rXq6nABilHTYM/200w.gif?cid=6c09b952p48j8j22qo5f3cg3vbwgsk3ec2p23yiu30ukazw4&ep=v1_gifs_search&rid=200w.gif&ct=g)
+[![An image of @getlost01's Holopin badges, which is a link to view their full Holopin profile]([https://media3.giphy.com/media/B4dt6rXq6nABilHTYM/200w.gif?cid=6c09b952p48j8j22qo5f3cg3vbwgsk3ec2p23yiu30ukazw4&ep=v1_gifs_search&rid=200w.gif&ct=g](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp))
 
 <h2 align="center">Hi 👋, I'm Aagam Jain</h2>
 
