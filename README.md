@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnvss-0x&label=Profile%20views&color=0e75b6&style=flat" alt="vnvss-0x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vnvss-0x" alt="vnvss-0x" /></a> </p>
-<div>
+<div style="display: block;">
 - 💬 Ask me about **Python, JavaScript**
 
 - 📫 How to reach me **anassmakhlo@gmail.com**
