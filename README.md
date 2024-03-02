@@ -25,8 +25,8 @@
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=vnvss-0x&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 <!-- GitHub Overview -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnvss-0x&layout=compact)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnvss-0x&layout=compact) -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffff&show_icons=true&locale=en&layout=compact" alt="ffff" /></p>
 
 
 <!-- <picture>
