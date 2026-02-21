@@ -1,4 +1,4 @@
-<center><img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" alt="Profile Banner" width="800"></center>
+<!-- <center><img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" alt="Profile Banner" width="800"></center> -->
 
 <h2 align="center">Hi 👋, I'm Anass Makhlouk</h2>
 
